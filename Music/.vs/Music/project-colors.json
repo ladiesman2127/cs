@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed1e0ac9-3361-42a2-86d6-e5c40c930898": {
+      "ProjectGuid": "ed1e0ac9-3361-42a2-86d6-e5c40c930898",
+      "DisplayName": "Music",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

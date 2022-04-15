@@ -1,0 +1,12 @@
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\bin\Debug\form_graphic.exe.config
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\bin\Debug\form_graphic.exe
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\bin\Debug\form_graphic.pdb
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\obj\Debug\form_graphic.csproj.AssemblyReference.cache
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\obj\Debug\form_graphic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\obj\Debug\form_graphic.Form1.resources
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\obj\Debug\form_graphic.Form2.resources
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\obj\Debug\form_graphic.Properties.Resources.resources
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\obj\Debug\form_graphic.csproj.GenerateResource.cache
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\obj\Debug\form_graphic.csproj.CoreCompileInputs.cache
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\obj\Debug\form_graphic.exe
+C:\Users\Abstergo\source\repos\form_graphic\form_graphic\obj\Debug\form_graphic.pdb
